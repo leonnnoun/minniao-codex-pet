@@ -1,0 +1,42 @@
+{
+  "pet": "珉鸟",
+  "structure": {
+    "valid": true,
+    "name": "珉鸟",
+    "sprite_version": 2,
+    "dimensions": [
+      1536,
+      2288
+    ],
+    "cell_size": [
+      192,
+      208
+    ],
+    "frame_counts": [
+      6,
+      8,
+      8,
+      4,
+      5,
+      8,
+      6,
+      6,
+      6,
+      8,
+      8
+    ],
+    "frames": 73,
+    "sha256": "19588aa88ae7c4d356ce1f9f71a5ce2f0d27f6464563019c13837e7a4ae67f03",
+    "errors": []
+  },
+  "quality_review": {
+    "pets_v2_preflight": "passed",
+    "creation_quality_check": "passed",
+    "jump_apex_lift_px": 39,
+    "landing_offset_from_idle_px": 1,
+    "direction_review_note": "112.5, 247.5 and 337.5 degrees have subtle secondary gaze components; major directions were reviewed as clear and the loop transitions were inspected.",
+    "idle_blink_note": "Five fully open-eye poses and one fully closed pose; the two half-lidded poses were removed to make the idle blink brief.",
+    "preview_closed_eye_duration_ms": 80
+  }
+}
+

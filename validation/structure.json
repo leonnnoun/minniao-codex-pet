@@ -1,0 +1,30 @@
+{
+  "valid": true,
+  "name": "珉鸟",
+  "sprite_version": 2,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "cell_size": [
+    192,
+    208
+  ],
+  "frame_counts": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "frames": 73,
+  "sha256": "19588aa88ae7c4d356ce1f9f71a5ce2f0d27f6464563019c13837e7a4ae67f03",
+  "errors": []
+}
+
